@@ -1,0 +1,38 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "a58db13d-7ddc-456e-ae87-77f6b1ffd301",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1663119797442"
+        }
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.5.4"
+      },
+      "savedConnectionType": "recent"
+    },
+    {
+      "id": "ad7237a0-8e4e-4609-92f4-36f150a48640",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1746984674026"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.jrqkg9l.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://rucas3216:Blade1236@cluster0.jrqkg9l.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
